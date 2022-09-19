@@ -1,0 +1,58 @@
+{
+  "name": "ml-hclust",
+  "version": "3.1.0",
+  "description": "Hierarchical clustering algorithms",
+  "main": "hclust.js",
+  "module": "src/index.js",
+  "types": "hclust.d.ts",
+  "sideEffects": false,
+  "files": [
+    "hclust.js",
+    "hclust.d.ts",
+    "src"
+  ],
+  "scripts": {
+    "compile": "rollup -c",
+    "eslint": "eslint .",
+    "eslint-fix": "npm run eslint -- --fix",
+    "prepack": "npm run compile",
+    "prettier": "prettier --check src",
+    "prettier-write": "prettier --write src",
+    "test": "npm run test-only && npm run eslint && npm run prettier",
+    "test-only": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mljs/hclust"
+  },
+  "keywords": [
+    "cluster",
+    "kmeans",
+    "hierarchical",
+    "data",
+    "mining",
+    "datamining",
+    "machine",
+    "learning"
+  ],
+  "author": "Miguel Asencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mljs/hclust/issues"
+  },
+  "homepage": "https://github.com/mljs/hclust",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "eslint": "^8.10.0",
+    "eslint-config-cheminfo": "^7.2.2",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1",
+    "rollup": "^2.68.0"
+  },
+  "dependencies": {
+    "heap": "^0.2.7",
+    "ml-distance-euclidean": "^2.0.0",
+    "ml-distance-matrix": "^2.0.1",
+    "ml-matrix": "^6.9.0"
+  }
+}

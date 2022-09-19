@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "gene_name": "PGK1",
+      "data": [
+        2008.466667,
+        3364.356667
+      ],
+      "GO_Term": "Kinase activity"
+    },
+    {
+      "gene_name": "PAU23",
+      "data": [
+        362.98,
+        188.21
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "SGF29",
+      "data": [
+        41.52333333,
+        78.51
+      ],
+      "GO_Term": "Methylated histone binding"
+    },
+    {
+      "gene_name": "SRL1",
+      "data": [
+        297,
+        192.5733333
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "CMK2",
+      "data": [
+        45.28333333,
+        114.2366667
+      ],
+      "GO_Term": "Protein serine/threonine kinase activity"
+    },
+    {
+      "gene_name": "CWP2",
+      "data": [
+        5230.8,
+        3494.743333
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "DDI2",
+      "data": [
+        8980.003333,
+        5422.42
+      ],
+      "GO_Term": "Lyase activity"
+    },
+    {
+      "gene_name": "DDI3",
+      "data": [
+        4229.92,
+        2756.06
+      ],
+      "GO_Term": "Lyase activity"
+    },
+    {
+      "gene_name": "MF(ALPHA)2",
+      "data": [
+        566.04,
+        71.56
+      ],
+      "GO_Term": "Extracellular region"
+    },
+    {
+      "gene_name": "CWP1",
+      "data": [
+        243.87,
+        138.9466667
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "STE3",
+      "data": [
+        67.47,
+        30.34
+      ],
+      "GO_Term": "Sexual reproduction"
+    },
+    {
+      "gene_name": "VHS1",
+      "data": [
+        31.51333333,
+        50.57666667
+      ],
+      "GO_Term": "Protein serine/threonine kinase activity"
+    },
+    {
+      "gene_name": "AGA1",
+      "data": [
+        31.1,
+        16.53
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "YPK2",
+      "data": [
+        65.16333333,
+        133.05
+      ],
+      "GO_Term": "Protein serine/threonine kinase activity"
+    },
+    {
+      "gene_name": "PHO5",
+      "data": [
+        151.6433333,
+        85.28666667
+      ],
+      "GO_Term": "External encapsulating structure"
+    },
+    {
+      "gene_name": "MF(ALPHA)1",
+      "data": [
+        1394.316667,
+        440.95
+      ],
+      "GO_Term": "Extracellular region"
+    },
+    {
+      "gene_name": "SAG1",
+      "data": [
+        208.4333333,
+        75.52333333
+      ],
+      "GO_Term": "Cell wall"
+    },
+    {
+      "gene_name": "AFB1",
+      "data": [
+        231.09,
+        152.32
+      ],
+      "GO_Term": "External encapsulating structure"
+    },
+    {
+      "gene_name": "PHO3",
+      "data": [
+        182.47,
+        116.5
+      ],
+      "GO_Term": "Cell wall"
+    }
+  ]
+}
